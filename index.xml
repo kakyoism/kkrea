@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<index version="1" name="kkRea" commit="c4cf407ce67f229bd8832bdb8a6e9806a30516f6">
+<index version="1" name="kkRea" commit="eb781ad675c672b54eb4fce6fcaeae75cb1e10ca">
 <category name="playground">
     <reapack name="kkrea_hello.lua" type="script" desc="Greetings from kkRea">
         <version name="1.0" author="kakyoism" time="2024-04-17T19:55:34Z">
