@@ -4,7 +4,7 @@
     <reapack name="kkrea_hello.lua" type="script" desc="Greetings from kkRea">
         <version name="1.0" author="kakyoism" time="2024-04-17T19:55:34Z">
             <changelog><![CDATA[+ init]]></changelog>
-            <source main="main">https://github.com/kakyoism/kkrea/blob/main/playground/kkrea_hello.lua</source>
+            <source main="main">https://github.com/kakyoism/kkrea/raw/main/playground/kkrea_hello.lua</source>
         </version>
     </reapack>
 </category>
