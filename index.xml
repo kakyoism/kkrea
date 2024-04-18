@@ -1,11 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<index version="1" name="kkRea" commit="eb781ad675c672b54eb4fce6fcaeae75cb1e10ca">
-<category name="playground">
-    <reapack name="kkrea_hello.lua" type="script" desc="Greetings from kkRea">
-        <version name="1.0" author="kakyoism" time="2024-04-17T19:55:34Z">
-            <changelog><![CDATA[+ init]]></changelog>
-            <source main="main">https://github.com/kakyoism/kkrea/raw/main/playground/kkrea_hello.lua</source>
-        </version>
-    </reapack>
-</category>
-</index>
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1"/>
